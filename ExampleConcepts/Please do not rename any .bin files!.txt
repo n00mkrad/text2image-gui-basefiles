@@ -1,0 +1,1 @@
+All .bin files are named like their placeholder name. The GUI will use their filename as placeholder string, so if you rename any of the files, a wrong placeholder will be used.
