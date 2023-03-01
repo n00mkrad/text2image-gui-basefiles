@@ -1,0 +1,5 @@
+ok.exe => Orphan process killer
+https://github.com/n00mkrad/orphan-killer
+
+wkl.exe => windows-kill, for sending ctrl+c (SIGINT) to a process
+https://github.com/ElyDotDev/windows-kill
